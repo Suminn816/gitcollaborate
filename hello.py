@@ -3,6 +3,7 @@ def print_hello():
     print("한줄추가")
     print("한줄추가")
     print("Hello")
+    print("Hello")
     return print("hello")
 
 print_hello()
